@@ -22,13 +22,13 @@
 - examples in src/test/scala/TestMain.scala.  
 
 2.
-Optimize interp to handle tail recursive input programs
-
-3.
-Add lazy evaluation to interp by implementing by-name and lazy-val
+- Optimize interp to handle tail recursive input programs  
+ 
+3. 
+- Add lazy evaluation to interp by implementing by-name and lazy-val  
 
 4.
-Add record to interp by implementing rmk and rfd following.  
-rmk and rfd implement record types.
-  - { (rmk B*) constructs a record value.
-  - { (rfd E x) projects out the field x of the record value obtained by evaluating E.
+- Add record to interp by implementing rmk and rfd following.  
+- rmk and rfd implement record types.  
+  - { (rmk B*) constructs a record value.  
+  - { (rfd E x) projects out the field x of the record value obtained by evaluating E.  
