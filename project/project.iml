@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lib-src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Common" level="project" />
+    <orderEntry type="library" name="EnvIF" level="project" />
+    <orderEntry type="library" name="Expression" level="project" />
+    <orderEntry type="library" name="ExpressionIF" level="project" />
+    <orderEntry type="library" name="InterpreterIF" level="project" />
+    <orderEntry type="library" name="Parser" level="project" />
+    <orderEntry type="library" name="ParserIF" level="project" />
+    <orderEntry type="library" name="ReplIF" level="project" />
+    <orderEntry type="library" name="scala-parser-combinators_2.13-1.1.2" level="project" />
+    <orderEntry type="library" name="TestIF" level="project" />
+    <orderEntry type="library" name="Value" level="project" />
+    <orderEntry type="library" name="ValueIF" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.13.0" level="application" />
+  </component>
+</module>

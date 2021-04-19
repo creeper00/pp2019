@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scala-parser-combinators_2.13-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Expression.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ValueIF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ExpressionIF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ReplIF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EnvIF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Value.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/InterpreterIF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/TestIF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ParserIF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

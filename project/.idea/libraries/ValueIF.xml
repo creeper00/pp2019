@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ValueIF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ValueIF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

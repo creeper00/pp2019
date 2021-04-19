@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ParserIF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ParserIF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

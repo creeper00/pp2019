@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ExpressionIF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ExpressionIF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

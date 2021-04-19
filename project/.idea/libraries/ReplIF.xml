@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ReplIF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ReplIF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

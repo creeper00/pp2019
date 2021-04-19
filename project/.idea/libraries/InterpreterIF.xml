@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InterpreterIF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/InterpreterIF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
